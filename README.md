@@ -7,10 +7,11 @@ Given a sea map, the problem is to find the optimal path to the finishing point.
 - you have four actions to choose 1 - move right, 2 - move up, 3 - move left, 4 - move down.
 - the goal is to maximize the sum of prizes by finding the finishing points and avoiding  penalty fields.
 
+**Visualisation of the learned algorithm can be seen here:** https://www.youtube.com/watch?v=cTWiIK5lbwo
 ## The map of the sea:
 ![map-of-the-sea](https://raw.githubusercontent.com/WaznyKamo/Sailor-path-finding-using-genetic-algorithms/main/srednia_str_opt_gamma1.png)
 
-**Visualisation of the learned algorithm can be seen here:*** https://www.youtube.com/watch?v=cTWiIK5lbwo
+**Visualisation of the learned algorithm can be seen here:** https://www.youtube.com/watch?v=cTWiIK5lbwo
 
 
 The project was made for university classes.
